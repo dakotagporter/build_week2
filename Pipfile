@@ -17,6 +17,7 @@ scikit-learn = "*"
 requests = "*"
 xgboost = "*"
 numpy = "==1.19.3"
+joblib = "*"
 
 [dev-packages]
 
